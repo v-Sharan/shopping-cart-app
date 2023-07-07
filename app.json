@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "SANITY_PROJECT_ID": "af0hmh1d"
+    },
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "client",
+    "slug": "client"
+  }
+}
