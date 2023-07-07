@@ -1,8 +1,6 @@
 {
   "expo": {
-    "extra": {
-      "SANITY_PROJECT_ID": "af0hmh1d"
-    },
+    "extra": {},
     "scheme": "acme",
     "web": {
       "bundler": "metro"
